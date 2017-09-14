@@ -49,17 +49,19 @@ a {
 }
 
 img {
-    max-width: 600px;
+	border-width: 5px;
+  	border-radius: 10px;
+    max-width: 500px;
 }
 
 #image2 {
     position: absolute;
     left: 400px;
-    top: 650px;
+    top: 900px;
 }
 
 #check {
     position: absolute;
     left: 20px;
-    top: 1100px;
+    top: 1400px;
 }
