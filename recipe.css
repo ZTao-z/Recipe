@@ -31,22 +31,7 @@ img {
 }
 
 ul {
-    font-family: Georgia,Garamond, serif;
-    font-size: 11pt;
-    color: #404040;
     list-style-image: url(https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
-}
-
-ol,li {
-    font-family: Georgia,Garamond, serif;
-    font-size: 11pt;
-    color: #404040;
-}
-
-p {
-    font-family: Georgia, Garamond, serif;
-    font-size: 11pt;
-    color: #404040;
 }
 
 blockquote {
