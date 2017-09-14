@@ -13,6 +13,7 @@ h1 {
     font-weight: bold;
     letter-spacing:0.2em;
     text-align:center;
+    animation: change 2s infinite;
 }
 
 h3 {
@@ -64,4 +65,13 @@ img {
     position: absolute;
     left: 20px;
     top: 1400px;
+}
+
+@keyframes change {
+    from {
+        color:#A4A400;
+    }
+    to{
+        color: green;
+    }
 }
